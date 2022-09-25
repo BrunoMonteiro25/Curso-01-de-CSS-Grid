@@ -14,4 +14,4 @@ Projeto de introdução ao CSS Grid.
 
 ### Tecnologias :computer:
 
-- HTML5, CSS3 (Grid Layout)
+- HTML5, CSS3 (Grid Layout, Flexbox)
